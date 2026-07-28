@@ -1,0 +1,10 @@
+pandas 
+numpy
+scikit-learn
+pydantic
+fastapi 
+uvicorn  
+
+-e . #we can call the setup.py file without calling it, by calling the requirement.txt
+
+
