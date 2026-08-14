@@ -1,0 +1,7 @@
+[ 2026-08-10 18:10:43,110 ] 10 root - INFO - The operation has started
+[ 2026-08-10 18:10:43,111 ] 22 root - ERROR - Pipeline failed
+[ 2026-08-10 18:10:43,111 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [15]
+  Error Msg  : [cannot unpack non-iterable method object]
+

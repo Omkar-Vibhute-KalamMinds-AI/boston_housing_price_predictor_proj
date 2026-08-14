@@ -1,0 +1,30 @@
+[ 2026-08-10 17:31:25,489 ] 8 root - INFO - The operation has started
+[ 2026-08-10 17:31:25,490 ] 22 root - INFO - Reading SQL database started
+[ 2026-08-10 17:31:25,658 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [24]
+  Error Msg  : [(1045, "Access denied for user 'HP'@'localhost' (using password: NO)")]
+
+[ 2026-08-10 17:31:25,658 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [25]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [24]
+  Error Msg  : [(1045, "Access denied for user 'HP'@'localhost' (using password: NO)")]
+]
+
+[ 2026-08-10 17:31:25,659 ] 20 root - ERROR - Pipeline failed
+[ 2026-08-10 17:31:25,659 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [13]
+  Error Msg  : [[DataIngestion Error] 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [25]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [24]
+  Error Msg  : [(1045, "Access denied for user 'HP'@'localhost' (using password: NO)")]
+]
+]
+

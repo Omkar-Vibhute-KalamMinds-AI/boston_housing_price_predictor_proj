@@ -1,0 +1,7 @@
+[ 2026-08-10 17:04:02,154 ] 8 root - INFO - The operation has started
+[ 2026-08-10 17:04:02,155 ] 16 root - INFO - Custom Exception
+[ 2026-08-10 17:04:02,156 ] 45 Src.my_project.logger - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [13]
+  Error Msg  : [DataIngestion.init_data_ingestion() missing 1 required positional argument: 'self']
+

@@ -1,0 +1,6 @@
+[ 2026-08-04 16:27:39,436 ] 10 root - INFO - The operation has started
+[ 2026-08-04 16:27:39,436 ] 46 Src.my_project.logger - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [13]
+  Error Msg  : [division by zero]
+

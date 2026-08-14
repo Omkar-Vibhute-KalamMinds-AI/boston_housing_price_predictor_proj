@@ -1,0 +1,30 @@
+[ 2026-08-11 17:35:26,993 ] 9 root - INFO - The operation has started
+[ 2026-08-11 17:35:26,994 ] 26 root - INFO - Reading SQL database started
+[ 2026-08-11 17:35:26,996 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [29]
+  Error Msg  : [invalid literal for int() with base 10: 'None']
+
+[ 2026-08-11 17:35:26,997 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [23]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [29]
+  Error Msg  : [invalid literal for int() with base 10: 'None']
+]
+
+[ 2026-08-11 17:35:26,997 ] 20 root - ERROR - Pipeline failed
+[ 2026-08-11 17:35:26,998 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [14]
+  Error Msg  : [[DataIngestion Error] 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [23]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [29]
+  Error Msg  : [invalid literal for int() with base 10: 'None']
+]
+]
+

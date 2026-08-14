@@ -1,0 +1,9 @@
+[ 2026-08-13 16:18:50,200 ] 9 root - INFO - The operation has started
+[ 2026-08-13 16:18:50,201 ] 28 root - INFO - Reading SQL database started
+[ 2026-08-13 16:18:50,201 ] 31 root - INFO - Connecting to: localhost:3306/BankChurn
+[ 2026-08-13 16:18:50,375 ] 34 root - INFO - SQLAlchemy engine created
+[ 2026-08-13 16:18:51,720 ] 37 root - INFO - Data loaded. Shape: (10127, 20)
+[ 2026-08-13 16:18:51,959 ] 24 root - INFO - Reading from MySQL database
+[ 2026-08-13 16:18:52,576 ] 33 root - INFO - Data Ingestion is completed
+[ 2026-08-13 16:18:52,577 ] 16 root - INFO - Train path: artifacts\train.csv
+[ 2026-08-13 16:18:52,578 ] 17 root - INFO - Test path: artifacts\test.csv

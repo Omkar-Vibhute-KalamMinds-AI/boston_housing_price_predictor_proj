@@ -1,0 +1,7 @@
+[ 2026-08-10 18:08:45,710 ] 8 root - INFO - The operation has started
+[ 2026-08-10 18:08:45,711 ] 25 root - INFO - Reading SQL database started
+[ 2026-08-10 18:08:46,010 ] 34 root - INFO - Connection Established: <pymysql.connections.Connection object at 0x000001AC34061010>
+[ 2026-08-10 18:08:47,014 ] 24 root - INFO - Reading from MySQL database
+[ 2026-08-10 18:08:47,876 ] 33 root - INFO - Data Ingestion is completed
+[ 2026-08-10 18:08:47,877 ] 16 root - INFO - Train path: artifacts\train.csv
+[ 2026-08-10 18:08:47,878 ] 17 root - INFO - Test path: artifacts\test.csv

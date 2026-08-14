@@ -1,0 +1,18 @@
+[ 2026-08-10 17:55:00,418 ] 8 root - INFO - The operation has started
+[ 2026-08-10 17:55:00,419 ] 25 root - INFO - Reading SQL database started
+[ 2026-08-10 17:55:01,374 ] 24 root - INFO - Reading from MySQL database
+[ 2026-08-10 17:55:01,616 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [30]
+  Error Msg  : ['str' object is not callable]
+
+[ 2026-08-10 17:55:01,616 ] 20 root - ERROR - Pipeline failed
+[ 2026-08-10 17:55:01,616 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [13]
+  Error Msg  : [[DataIngestion Error] 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [30]
+  Error Msg  : ['str' object is not callable]
+]
+

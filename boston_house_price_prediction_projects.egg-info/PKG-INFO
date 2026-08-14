@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: boston_house_price_prediction_projects
+Version: 0.0.1
+Author: Omkar
+Author-email: vibhuteomkar@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: fastapi
+Requires-Dist: streamlit
+Requires-Dist: pydantic
+Requires-Dist: uvicorn
+Requires-Dist: scikit-learn
+Requires-Dist: pickle
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

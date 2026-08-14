@@ -1,0 +1,6 @@
+[ 2026-08-10 18:00:13,043 ] 8 root - INFO - The operation has started
+[ 2026-08-10 18:00:13,044 ] 25 root - INFO - Reading SQL database started
+[ 2026-08-10 18:00:13,972 ] 24 root - INFO - Reading from MySQL database
+[ 2026-08-10 18:00:14,335 ] 33 root - INFO - Data Ingestion is completed
+[ 2026-08-10 18:00:14,337 ] 16 root - INFO - Train path: artifacts\train.csv
+[ 2026-08-10 18:00:14,337 ] 17 root - INFO - Test path: artifacts\test.csv

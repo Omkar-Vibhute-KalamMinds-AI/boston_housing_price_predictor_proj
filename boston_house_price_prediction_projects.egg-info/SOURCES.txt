@@ -1,0 +1,6 @@
+setup.py
+boston_house_price_prediction_projects.egg-info/PKG-INFO
+boston_house_price_prediction_projects.egg-info/SOURCES.txt
+boston_house_price_prediction_projects.egg-info/dependency_links.txt
+boston_house_price_prediction_projects.egg-info/requires.txt
+boston_house_price_prediction_projects.egg-info/top_level.txt

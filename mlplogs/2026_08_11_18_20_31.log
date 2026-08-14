@@ -1,0 +1,35 @@
+[ 2026-08-11 18:20:40,568 ] 9 root - INFO - The operation has started
+[ 2026-08-11 18:20:40,569 ] 34 root - INFO - Reading SQL database started
+[ 2026-08-11 18:20:40,570 ] 38 root - INFO - Connecting to: localhost:3306/BankChurn
+[ 2026-08-11 18:20:40,770 ] 42 root - INFO - SQLAlchemy engine created
+[ 2026-08-11 18:20:40,936 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [45]
+  Error Msg  : [(pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'MySQL@localhost' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)]
+
+[ 2026-08-11 18:20:40,936 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [23]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [45]
+  Error Msg  : [(pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'MySQL@localhost' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)]
+]
+
+[ 2026-08-11 18:20:40,937 ] 20 root - ERROR - Pipeline failed
+[ 2026-08-11 18:20:40,938 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [14]
+  Error Msg  : [[DataIngestion Error] 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [23]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [45]
+  Error Msg  : [(pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'MySQL@localhost' ([Errno 11003] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)]
+]
+]
+

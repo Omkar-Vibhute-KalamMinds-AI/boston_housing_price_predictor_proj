@@ -1,0 +1,8 @@
+pandas 
+numpy 
+fastapi
+streamlit
+pydantic 
+uvicorn 
+scikit-learn 
+python-dotenv  #it helps to read the enviorment variable

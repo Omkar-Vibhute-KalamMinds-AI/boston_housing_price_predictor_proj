@@ -1,0 +1,30 @@
+[ 2026-08-10 17:45:24,262 ] 8 root - INFO - The operation has started
+[ 2026-08-10 17:45:24,262 ] 26 root - INFO - Reading SQL database started
+[ 2026-08-10 17:45:24,743 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [37]
+  Error Msg  : [(1146, "Table 'bankchurn.students' doesn't exist")]
+
+[ 2026-08-10 17:45:24,743 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [25]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [37]
+  Error Msg  : [(1146, "Table 'bankchurn.students' doesn't exist")]
+]
+
+[ 2026-08-10 17:45:24,744 ] 20 root - ERROR - Pipeline failed
+[ 2026-08-10 17:45:24,745 ] 45 __main__ - ERROR - 
+  Script     : [D:\DataSciene Proj\app.py]
+  Line No    : [13]
+  Error Msg  : [[DataIngestion Error] 
+  Script     : [D:\DataSciene Proj\Src\my_project\components\data_ingestion.py]
+  Line No    : [25]
+  Error Msg  : [
+  Script     : [D:\DataSciene Proj\Src\my_project\utils.py]
+  Line No    : [37]
+  Error Msg  : [(1146, "Table 'bankchurn.students' doesn't exist")]
+]
+]
+
