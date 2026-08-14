@@ -18,7 +18,7 @@ class DataIngestion():
     def __init__(self):    
         self.ingestion_config = DataIngestionConfig() 
         
-    def init_data_ingestion(self):  
+    def init_data_ingestion(self):   
         try:
             df = read_sql_data() 
             logging.info('Reading from MySQL database')
